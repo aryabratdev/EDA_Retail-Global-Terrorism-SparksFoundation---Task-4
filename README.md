@@ -1,4 +1,3 @@
-
 # EDA_Retail-Global-Terrorism-SparksFoundation---Task-4
 Introduction:
 
