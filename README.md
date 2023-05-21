@@ -1,4 +1,4 @@
-# EDA_Retail-Global-Terrorism-SparksFoundation---Task-4
+# EDA Global-Terrorism-SparksFoundation---Task-4
 Introduction:
 
 Global Terrorism: A Persistent Threat to Global Security
